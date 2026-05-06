@@ -1,0 +1,7 @@
+/* Подключение шрифта BlackCraft */
+@font-face {
+    font-family: 'BlackCraft';
+    src: url('font.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
